@@ -1,0 +1,14 @@
+{
+  "name": "rukalarukala-jsfe2023q1",
+  "version": "1.0.0",
+  "description": "Private repository for @rukalarukala\r Contacts: \r phone: +375291207326\r discord: Mikalai (@RukalaRukala)\r e-mail: kolyos83@mail.ru",
+  "main": "minesweeper/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}
